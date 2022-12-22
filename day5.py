@@ -80,19 +80,11 @@
 
 # print(st)
 
-def sum_dig_pow(a,b):
-    lst=list()
-    for x in range(b+1):
-        count=0
-        d=0
-        for y in iter(str(x)):
-            count+=1
-            c=int(y)
-            d=d+c**count
-            
-            print(f'x: {x} and square: {d} and count:{count}')
-        if d == x:
-            lst.append(d)
-    print(lst)
+for i in range(10,20):
+  print(i)
 
-sum_dig_pow(1,100)
+dic={}
+dic['ok']=10
+dic['ok1']=10
+dic['ok2']=10
+print(dic)
