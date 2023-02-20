@@ -89,3 +89,7 @@ def unique_random():
     print(random_list)
 
 unique_random()
+
+
+lst=[2,4,3,5,6,7,1,8,9]
+print(sorted(lst)==list(range(1,10)))

@@ -1,8 +1,6 @@
 import random
 
 class guess:
-
-    
     def chances_count_message(self,count,chances):
         count+=1
         chances-=1

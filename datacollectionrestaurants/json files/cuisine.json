@@ -1,0 +1,21 @@
+[
+{"cuisine": ["$$ - $$$", "Italian", "Pizza", "Mediterranean"]},
+{"cuisine": ["$", "Italian", "Indian", "Bar"]},
+{"cuisine": ["$$ - $$$", "Cafe", "Asian", "Healthy"]},
+{"cuisine": ["$", "French", "Cafe", "European"]},
+{"cuisine": ["$$ - $$$", "Indian", "Asian", "Nepali"]},
+{"cuisine": ["$", "Italian", "Cafe", "European"]},
+{"cuisine": ["$$ - $$$", "Italian", "International", "Barbecue"]},
+{"cuisine": ["$", "Cafe", "Fusion", "Healthy"]},
+{"cuisine": ["$$ - $$$", "Italian", "Chinese", "Pizza"]},
+{"cuisine": ["$", "Asian", "Tibetan", "Nepali"]},
+{"cuisine": ["$", "Bar", "Pizza", "International"]},
+{"cuisine": ["$$$$", "Asian", "Nepali", "Vegetarian Friendly"]},
+{"cuisine": ["$$ - $$$", "Indian", "Fusion", "Vegetarian Friendly"]},
+{"cuisine": ["$$ - $$$", "Italian", "Mediterranean", "Vegetarian Friendly"]},
+{"cuisine": ["$", "Indian", "Nepali", "Vegetarian Friendly"]},
+{"cuisine": ["$$ - $$$", "Bar", "International", "European"]},
+{"cuisine": ["$", "Indian", "Asian", "Nepali"]},
+{"cuisine": ["Italian", "Mexican", "American", "Indian"]},
+{"cuisine": ["$", "Fast Food", "Mediterranean", "Turkish"]}
+]
