@@ -13,11 +13,23 @@ class image_name_spider(scrapy.Spider):
     def parse(self,response):
         image_url = response.css('img.basicImg::attr(data-lazyurl)').extract()[:4]
         name=response.css('h1[data-test-target="top-info-header"]::text').extract_first('')
-        cuisine=response.css('div.SrqKb::text').extract()
-        Type=response.css('a.dlMOJ::text').extract()
+        temp_cuisine=response.css('div.SrqKb::text').extract()
+        temp_Type=response.css('a.dlMOJ::text').extract()
         location = response.css('span.yEWoV::text').get()
-        average_rating=float(response.xpath('//span[@class="ZDEqb"]/text()').get())
-        number_of_reviews=int(response.xpath('//a[@class="IcelI"]/text()').get())
+        # Removing Symbols and numbers from type cuisine
+        pattern = r'[^\W\d]+'
+        Type = [elem for elem in temp_Type if re.match(pattern, elem)]
+        cuisine= [elem for elem in temp_cuisine if re.match(pattern, elem)]
+        #-------------------------------------------------------------------#
+        average_rating=response.xpath('//span[@class="ZDEqb"]/text()').get()
+        number_of_reviews=response.xpath('//a[@class="IcelI"]/text()').get()
+        if average_rating is not None and number_of_reviews is not None:
+            average_rating=float(average_rating)
+            number_of_reviews=int(number_of_reviews)
+        else:
+            average_rating=0
+            number_of_reviews=0
+        
         #Reviews Details
         final_rating={}
         review_url=response.url

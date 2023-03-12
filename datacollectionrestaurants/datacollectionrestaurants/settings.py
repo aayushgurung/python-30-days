@@ -16,6 +16,8 @@
 
 # USER_AGENT = random.choice(USER_AGENTS)
 
+# Import the required modules
+
 
 BOT_NAME = "datacollectionrestaurants"
 
@@ -103,20 +105,26 @@ DOWNLOAD_DELAY = 1
 REQUEST_FINGERPRINTER_IMPLEMENTATION = "2.7"
 TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
 FEED_EXPORT_ENCODING = "utf-8"
+RETRY_ENABLED=True
+DOWNLOAD_FAIL_ON_DATALOSS = False
 
 # Enable the scrapy-proxies middleware
 DOWNLOADER_MIDDLEWARES = {
-    'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware': 110,
-    'scrapy_proxies.RandomProxy': 100,
-    'scrapy.downloadermiddlewares.retry.RetryMiddleware': 90,
+    # 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware': 110,
+    # 'scrapy_proxies.RandomProxy': 100,
+    # 'scrapy.downloadermiddlewares.retry.RetryMiddleware': 90,
+    'scrapy_proxy_pool.middlewares.ProxyPoolMiddleware': 610,
+    'scrapy_proxy_pool.middlewares.BanDetectionMiddleware': 620,
 }
-
+PROXY_POOL_ENABLED = True
 # Configure the proxy list
-PROXY_LIST = 'C:/Users/Nirajan/Desktop/python 30 days/datacollectionrestaurants/datacollectionrestaurants/proxy.txt'
-PROXY_MODE = 1
+# PROXY_LIST = 'C:/Users/Nirajan/Desktop/python 30 days/datacollectionrestaurants/datacollectionrestaurants/proxy.txt'
+# PROXY_MODE = 1
 
 RETRY_TIMES = 10
 RETRY_HTTP_CODES = [500, 502, 503, 504, 400, 403, 404, 408]
 DUPEFILTER_CLASS = 'scrapy.dupefilters.BaseDupeFilter'
 DUPEFILTER_DEBUG = True
+
+
 
