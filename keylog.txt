@@ -1,0 +1,98 @@
+2023-03-14 14:23:07,950 Platform: Windows
+2023-03-14 14:23:07,950 Python Version: 3.10.6
+2023-03-14 14:23:11,392 Key 5 was pressed.
+2023-03-14 14:23:13,000 Key backspace was pressed.
+2023-03-14 14:23:16,117 Key j was pressed.
+2023-03-14 14:23:20,811 Key . was pressed.
+2023-03-14 14:23:20,965 Key . was pressed.
+2023-03-14 14:23:21,138 Key . was pressed.
+2023-03-14 14:23:23,014 Key shift was pressed.
+2023-03-14 14:23:23,514 Key shift was pressed.
+2023-03-14 14:23:23,560 Key shift was pressed.
+2023-03-14 14:23:23,592 Key shift was pressed.
+2023-03-14 14:23:23,623 Key shift was pressed.
+2023-03-14 14:23:23,654 Key shift was pressed.
+2023-03-14 14:23:23,685 Key shift was pressed.
+2023-03-14 14:23:23,717 Key shift was pressed.
+2023-03-14 14:23:23,748 Key shift was pressed.
+2023-03-14 14:23:23,780 Key shift was pressed.
+2023-03-14 14:23:23,811 Key shift was pressed.
+2023-03-14 14:23:23,858 Key shift was pressed.
+2023-03-14 14:23:23,889 Key shift was pressed.
+2023-03-14 14:23:23,920 Key shift was pressed.
+2023-03-14 14:23:23,951 Key shift was pressed.
+2023-03-14 14:23:23,983 Key shift was pressed.
+2023-03-14 14:23:24,014 Key shift was pressed.
+2023-03-14 14:23:24,046 Key shift was pressed.
+2023-03-14 14:23:24,077 Key shift was pressed.
+2023-03-14 14:23:24,108 Key shift was pressed.
+2023-03-14 14:23:24,155 Key shift was pressed.
+2023-03-14 14:23:24,186 Key shift was pressed.
+2023-03-14 14:23:24,218 Key shift was pressed.
+2023-03-14 14:23:24,249 Key shift was pressed.
+2023-03-14 14:23:24,280 Key shift was pressed.
+2023-03-14 14:23:24,311 Key shift was pressed.
+2023-03-14 14:23:24,343 Key shift was pressed.
+2023-03-14 14:23:24,374 Key shift was pressed.
+2023-03-14 14:23:24,405 Key shift was pressed.
+2023-03-14 14:23:24,452 Key shift was pressed.
+2023-03-14 14:23:24,483 Key shift was pressed.
+2023-03-14 14:23:24,514 Key shift was pressed.
+2023-03-14 14:23:24,546 Key shift was pressed.
+2023-03-14 14:23:24,577 Key shift was pressed.
+2023-03-14 14:23:24,608 Key shift was pressed.
+2023-03-14 14:23:24,639 Key shift was pressed.
+2023-03-14 14:23:40,132 Key shift was pressed.
+2023-03-14 14:23:40,272 Key N was pressed.
+2023-03-14 14:23:41,054 Key caps lock was pressed.
+2023-03-14 14:23:41,618 Key I was pressed.
+2023-03-14 14:23:41,930 Key R was pressed.
+2023-03-14 14:23:42,040 Key A was pressed.
+2023-03-14 14:23:42,244 Key J was pressed.
+2023-03-14 14:23:42,400 Key A was pressed.
+2023-03-14 14:23:42,556 Key N was pressed.
+2023-03-14 14:23:42,995 Key 0 was pressed.
+2023-03-14 14:23:43,167 Key 8 was pressed.
+2023-03-14 14:23:43,355 Key 7 was pressed.
+2023-03-14 14:23:45,076 Key caps lock was pressed.
+2023-03-14 14:23:47,934 Key right shift was pressed.
+2023-03-14 14:23:48,434 Key right shift was pressed.
+2023-03-14 14:23:48,481 Key right shift was pressed.
+2023-03-14 14:23:48,512 Key right shift was pressed.
+2023-03-14 14:23:48,544 Key right shift was pressed.
+2023-03-14 14:23:48,575 Key right shift was pressed.
+2023-03-14 14:23:48,606 Key right shift was pressed.
+2023-03-14 14:23:48,637 Key right shift was pressed.
+2023-03-14 14:23:48,669 Key right shift was pressed.
+2023-03-14 14:23:48,700 Key right shift was pressed.
+2023-03-14 14:23:48,731 Key right shift was pressed.
+2023-03-14 14:23:48,778 Key right shift was pressed.
+2023-03-14 14:23:48,809 Key right shift was pressed.
+2023-03-14 14:23:48,841 Key right shift was pressed.
+2023-03-14 14:23:48,872 Key right shift was pressed.
+2023-03-14 14:23:48,903 Key right shift was pressed.
+2023-03-14 14:23:48,935 Key right shift was pressed.
+2023-03-14 14:23:48,966 Key right shift was pressed.
+2023-03-14 14:23:48,997 Key right shift was pressed.
+2023-03-14 14:23:49,028 Key right shift was pressed.
+2023-03-14 14:23:49,076 Key right shift was pressed.
+2023-03-14 14:23:49,107 Key right shift was pressed.
+2023-03-14 14:23:49,122 Key A was pressed.
+2023-03-14 14:23:49,694 Key a was pressed.
+2023-03-14 14:23:49,960 Key y was pressed.
+2023-03-14 14:23:50,116 Key u was pressed.
+2023-03-14 14:23:50,288 Key s was pressed.
+2023-03-14 14:23:50,413 Key h was pressed.
+2023-03-14 14:23:50,820 Key shift was pressed.
+2023-03-14 14:23:51,322 Key shift was pressed.
+2023-03-14 14:23:51,353 Key shift was pressed.
+2023-03-14 14:23:51,400 Key shift was pressed.
+2023-03-14 14:23:51,432 Key shift was pressed.
+2023-03-14 14:23:51,463 Key shift was pressed.
+2023-03-14 14:23:51,478 Key # was pressed.
+2023-03-14 14:23:51,932 Key 1 was pressed.
+2023-03-14 14:23:52,120 Key 2 was pressed.
+2023-03-14 14:23:52,355 Key 3 was pressed.
+2023-03-14 14:23:58,114 Key ctrl was pressed.
+2023-03-14 14:23:58,263 Key c was pressed.
+2023-03-14 14:23:58,282 Keylogger stopped.

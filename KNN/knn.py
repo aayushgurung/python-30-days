@@ -20,5 +20,5 @@ class KNN:
         neighbors = self.find_k_nearest_neighbors(restaurants, target_restaurant, self.k)
         return sorted(neighbors, key=lambda r: r['average_rating'], reverse=True)
     
-    def haversine(,latitude,longitude):
+    # def haversine(,latitude,longitude):
         
